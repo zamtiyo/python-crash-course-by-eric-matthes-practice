@@ -1,0 +1,34 @@
+#hal 84-85
+#Alien
+alien_color = input("Red,Green or yellow: ")
+if alien_color == "green":
+    print("You just earned 5 points")
+elif alien_color == "yellow":
+    print("you just earn 10 points")
+elif alien_color == "red":
+    print("You just earned 10 points")
+#modification
+
+#stages of life
+ages = 20
+if ages < 2:
+    print("You are a baby")
+elif ages <= 4:
+    print("You are a toddler")
+elif ages < 13:
+    print("You are a kid")
+elif ages < 20:
+    print("You are a teenager")
+elif ages < 65:
+    print("You are an adult")
+else:
+    print("You are an elder")
+
+#Favorite fruit
+fav_fruit = ["Banana", "Apple", "Orange"]
+if "Banana" in fav_fruit:
+    print(f"You really like banana")
+if "Apple" in fav_fruit:
+    print("You really like apple")
+if "Orange" in fav_fruit:
+    print("You really like orange")

@@ -1,0 +1,10 @@
+#hal 56
+pizzas = ["mozarella",'meat lover', 'peperoni']
+for pizza in pizzas:
+    print(f"Aku Suka Sekali: {pizza}")
+print("Aku suka semua jenis pizza")
+
+animals = ["Anjing", "Kucing", "Asep"]
+for animal in animals:
+    print(f"{animal} Akan menjadi peliharaan yang bagus")
+print("Semua jenis hewan ini sangat bagus")

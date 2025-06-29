@@ -4,7 +4,7 @@ for pizza in pizzas:
     print(f"Aku Suka Sekali: {pizza}")
 print("Aku suka semua jenis pizza")
 
-animals = ["Anjing", "Kucing", "Asep"]
+animals = ["Anjing", "Kucing", "Rusa"]
 for animal in animals:
     print(f"{animal} Akan menjadi peliharaan yang bagus")
 print("Semua jenis hewan ini sangat bagus")
